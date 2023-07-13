@@ -42,8 +42,13 @@ Vin - ->3.3V
 GND - ->0V
 
 OUT - ->D4
+
+![Screenshot (24)](https://github.com/rayy2002/Weahter-Station/assets/88958861/afd701bb-9a39-4562-bb02-9c75cae876a4)
+
+
 ## Demo
 
+![Screenshot (25)](https://github.com/rayy2002/Weahter-Station/assets/88958861/737c04f9-dc6c-46e6-b7f3-fbe61b3c571a)
 ![ezgif com-optimize](https://github.com/rayy2002/Weahter-Station/assets/88958861/b5fec5dc-cbb9-48d1-a70a-fa9ecc7ab966)
 
 
