@@ -44,5 +44,6 @@ GND - ->0V
 OUT - ->D4
 ## Demo
 
-Insert gif or link to demo
+![ezgif com-optimize](https://github.com/rayy2002/Weahter-Station/assets/88958861/b5fec5dc-cbb9-48d1-a70a-fa9ecc7ab966)
+
 
