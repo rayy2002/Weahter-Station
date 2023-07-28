@@ -8,7 +8,7 @@ The Weather Station project utilizing the ESP8266 microcontroller and various se
 
 For DHT - https://github.com/adafruit/DHT-sensor-library.git
 
-For BMP180 - git clone https://bitbucket.org/christandlg/bmp180mi.git
+For BMP180 - https://bitbucket.org/christandlg/bmp180mi.git
 
 For MQ135 - https://github.com/Phoenix1747/MQ135.git
 
